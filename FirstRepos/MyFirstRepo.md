@@ -1,6 +1,6 @@
 # MoodMate 🤖🧠  
 *A friendly Python chatbot that detects mood from text and gives helpful advice.*
-
+# We are in Git 101 session.
 ## 🌟 Overview
 
 MoodMate is a Python-based mini app that lets users enter a short message, and it responds based on detected mood keywords like "tired", "happy", or "anxious".
